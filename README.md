@@ -21,8 +21,8 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sudhakar--livid.vercel.app-161B22?style=for-the-badge&logo=vercel&logoColor=white)](https://sudhakar-livid.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-hello%40example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhakarmaruthu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sudhakar--fd-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhakar-fd)
+[![Email](https://img.shields.io/badge/Email-sudhakarmaruthu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhakarmaruthu@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-sudhakar--k47-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudhakar-k47)
 
 </div>
@@ -76,6 +76,8 @@ sudhakar@github:~$ cat about.md
 │  📍 Coimbatore, Tamil Nadu, India                               │
 │  💼 Full Stack Developer                                        │
 │  🌐 https://sudhakar-livid.vercel.app                           │
+│  💼 https://www.linkedin.com/in/sudhakar-fd                     │
+│  ✉️  sudhakarmaruthu@gmail.com                                  │
 └─────────────────────────────────────────────────────────────────┘
 
 sudhakar@github:~$ echo $INTERESTS
@@ -428,9 +430,9 @@ Add a GitHub Action (`.github/workflows/snake.yml`) using [Platane/snk](https://
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sudhakar-livid.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhakar-fd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sudhakar--fd-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhakar-fd)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudhakar-k47)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhakarmaruthu@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sudhakarmaruthu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhakarmaruthu@gmail.com)
 
 </div>
 
@@ -441,7 +443,7 @@ Add a GitHub Action (`.github/workflows/snake.yml`) using [Platane/snk](https://
 | Platform | Link |
 |:--------:|:-----|
 | 🌐 Portfolio | [sudhakar-livid.vercel.app](https://sudhakar-livid.vercel.app) |
-| 💼 LinkedIn | [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/sudhakar-fd) |
+| 💼 LinkedIn | [linkedin.com/in/sudhakar-fd](https://www.linkedin.com/in/sudhakar-fd) |
 | 🐙 GitHub | [github.com/sudhakar-k47](https://github.com/sudhakar-k47) |
 | ✉️ Email | [sudhakarmaruthu@gmail.com](mailto:sudhakarmaruthu@gmail.com) |
 
