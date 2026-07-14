@@ -62,7 +62,10 @@ Sudhakar K — Full Stack Developer | Backend Engineer | AI Enthusiast
 sudhakar@github:~$ cat about.md
 ┌─────────────────────────────────────────────────────────────────┐
 │  Passionate Full Stack Developer with 2.5+ years of experience  │
-│  building enterprise web applications.                          │
+│  building enterprise SaaS & business platforms.                 │
+│                                                                 │
+│  Built a Zoho-like Business Suite with Auth, CRM, HRMS,         │
+│  Chat, Meet, Workflow Builder, PMS, and POS modules.            │
 │                                                                 │
 │  I design scalable backend architectures, REST APIs,            │
 │  modern frontend interfaces, and cloud deployments.             │
@@ -94,7 +97,7 @@ Open Source • Cloud Computing • SaaS Products
 | ⚡ **Backend Systems** | Scalable APIs, system design, performance |
 | 🧠 **Agent Frameworks** | LangGraph, CrewAI, MCP, AI Agents |
 | ☁️ **Cloud & DevOps** | Docker, AWS, GitHub Actions, Nginx |
-| 🚀 **Product Building** | SaaS ideas, open-source tools, automation |
+| 🚀 **Product Building** | Business Suite (SaaS), open-source tools, automation |
 
 </div>
 
@@ -203,8 +206,8 @@ Open Source • Cloud Computing • SaaS Products
 
 | Role | Focus | Duration |
 |:-----|:------|:--------:|
-| **Full Stack Developer** | Enterprise web apps, REST APIs, Laravel / Vue / React stacks, cloud deployments | **2.5+ Years** |
-| **Backend Engineer** | Scalable architectures, databases, Docker, AWS, CI/CD | Ongoing |
+| **Full Stack Developer** | Zoho-like Business Suite, enterprise SaaS, REST APIs, Laravel / Vue / React, cloud | **2.5+ Years** |
+| **Backend Engineer** | Scalable architectures, multi-module platforms, Docker, AWS, CI/CD | Ongoing |
 | **AI Enthusiast** | RAG, Agentic AI, FastAPI, LangChain, AI agents | Transitioning |
 
 <details>
@@ -212,8 +215,9 @@ Open Source • Cloud Computing • SaaS Products
 <br />
 
 - End-to-end feature delivery across frontend and backend
-- Production-ready REST APIs and service layers
-- ERP, HRMS, CRM, and document-management workflows
+- Production-ready REST APIs and multi-tenant service layers
+- Zoho-style Business Suite: Auth, CRM, HRMS, Chat, Meet, Workflow Builder, PMS, POS
+- Document management and enterprise workflow automation
 - Containerized deployments with Docker & Nginx
 - Automation platforms and AI-assisted tooling
 
@@ -225,24 +229,60 @@ Open Source • Cloud Computing • SaaS Products
 
 <br />
 
+### 🏢 Business Suite *(Zoho-like Enterprise Platform)*
+
+<div align="center">
+
+An integrated multi-module business platform — auth, collaboration, CRM, HR, projects, POS, and visual workflows in one suite.
+
+</div>
+
+<br />
+
+| Module | Capability |
+|:-------|:-----------|
+| **Account (Auth)** | Centralized authentication, roles, permissions & organization accounts |
+| **CRM** | Leads, deals, contacts, pipelines & customer engagement |
+| **HRMS** | Employees, attendance, payroll & people lifecycle |
+| **Chat** | Real-time team messaging & collaboration |
+| **Meet** | Online meetings & video collaboration |
+| **Workflow Builder** | Visual automation & business process workflows |
+| **PMS** | Project management — tasks, milestones & delivery tracking |
+| **POS** | Point of sale, inventory & sales operations |
+
+<details>
+<summary><b>🧩 Business Suite highlights</b></summary>
+<br />
+
+```text
+Account (Auth)     → SSO-ready auth, RBAC, multi-org accounts
+CRM                → Lead-to-close pipelines & customer 360
+HRMS               → People ops, attendance & HR automation
+Chat               → Real-time team communication
+Meet               → Meetings & remote collaboration
+Workflow Builder   → No-code / low-code process automation
+PMS                → Projects, tasks & delivery tracking
+POS                → Retail & sales operations at the counter
+```
+
+</details>
+
+<br />
+
 | Project | Stack / Type | Description |
 |:--------|:-------------|:------------|
-| **ERP Suite** | Laravel · Vue · MySQL | Enterprise resource planning modules for operations & reporting |
-| **HRMS** | Laravel · Inertia · DB | Human resource management — payroll, attendance, employee lifecycle |
-| **CRM** | Full Stack | Customer relationship workflows, leads, and engagement tracking |
+| **Business Suite** | Full Stack · SaaS | Zoho-like suite: Auth, CRM, HRMS, Chat, Meet, Workflow Builder, PMS, POS |
 | **Document Management System** | Laravel · Storage | Secure document upload, versioning, and access control |
 | **SQLBot** | FastAPI · Streamlit | Natural-language SQL assistant powered by LLMs |
 | **WhatsApp Automation Platform** | Node · APIs | Messaging automation, workflows, and integrations |
 | **Portfolio Website** | Modern Web | Personal portfolio — [sudhakar-livid.vercel.app](https://sudhakar-livid.vercel.app) |
 
 <details>
-<summary><b>📦 Project highlights</b></summary>
+<summary><b>📦 Other project highlights</b></summary>
 <br />
 
 ```text
-ERP Suite          → Multi-module enterprise workflows
-HRMS               → People ops & HR process automation
-CRM                → Lead-to-close customer journeys
+Business Suite     → Multi-module Zoho-style enterprise SaaS
 DMS                → Controlled document lifecycle
 SQLBot             → Conversational database querying
 WhatsApp Platform  → Business messaging at scale
@@ -308,7 +348,7 @@ Add a GitHub Action (`.github/workflows/snake.yml`) using [Platane/snk](https://
 
 | Badge | Achievement |
 |:-----:|:------------|
-| 🏢 | Built & delivered **enterprise ERP / HRMS / CRM** applications |
+| 🏢 | Built a **Zoho-like Business Suite** — Auth, CRM, HRMS, Chat, Meet, Workflow Builder, PMS, POS |
 | 📄 | Designed and shipped a **Document Management System** |
 | 🤖 | Built **SQLBot** — FastAPI + Streamlit conversational SQL tool |
 | 💬 | Developed a **WhatsApp Automation Platform** |
@@ -317,25 +357,6 @@ Add a GitHub Action (`.github/workflows/snake.yml`) using [Platane/snk](https://
 
 </div>
 
----
-
-## <div align="center">📜 Certifications</div>
-
-<br />
-
-<div align="center">
-
-| Certification | Issuer | Status |
-|:--------------|:-------|:------:|
-| _Add certification title_ | _Issuer_ | 🔜 Placeholder |
-| _Add certification title_ | _Issuer_ | 🔜 Placeholder |
-| _Add certification title_ | _Issuer_ | 🔜 Placeholder |
-
-</div>
-
-> Replace the rows above with your real certificates (Coursera, AWS, Udemy, etc.) when ready.
-
----
 
 ## <div align="center">🗓️ Daily Workflow</div>
 
@@ -363,7 +384,7 @@ Add a GitHub Action (`.github/workflows/snake.yml`) using [Platane/snk](https://
 
 | Tool | Preference |
 |:-----|:-----------|
-| **OS** | Linux / Windows (WSL-ready) |
+| **OS** | Linux / Windows / Mac (WSL-ready) |
 | **Editor** | VS Code · Cursor · Claude Code |
 | **Terminal** | PowerShell · Bash |
 | **Runtime** | PHP · Node.js · Python |
