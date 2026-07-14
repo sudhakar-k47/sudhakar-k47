@@ -43,9 +43,9 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Location-Coimbatore%2C%20Tamil%20Nadu%2C%20India-0D1117?style=flat-square&logo=googlemaps&logoColor=58A6FF&labelColor=161B22" alt="Location" />
-<img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-0D1117?style=flat-square&logo=clockify&logoColor=3FB950&labelColor=161B22" alt="Experience" />
-<img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-0D1117?style=flat-square&logo=coderwall&logoColor=F78166&labelColor=161B22" alt="Role" />
-<img src="https://img.shields.io/badge/Focus-AI%20Engineering-0D1117?style=flat-square&logo=openai&logoColor=A371F7&labelColor=161B22" alt="Focus" />
+<img src="https://img.shields.io/badge/Experience-2%2B%20Years-0D1117?style=flat-square&logo=clockify&logoColor=3FB950&labelColor=161B22" alt="Experience" />
+<img src="https://img.shields.io/badge/Education-MCA%20%7C%208.7%20CGPA-0D1117?style=flat-square&logo=google-scholar&logoColor=58A6FF&labelColor=161B22" alt="Education" />
+<img src="https://img.shields.io/badge/Stack-MERN%20%C2%B7%20PERN-0D1117?style=flat-square&logo=react&logoColor=61DAFB&labelColor=161B22" alt="Stack" />
 
 </div>
 
@@ -61,22 +61,23 @@ Sudhakar K — Full Stack Developer | Backend Engineer | AI Enthusiast
 
 sudhakar@github:~$ cat about.md
 ┌─────────────────────────────────────────────────────────────────┐
-│  Passionate Full Stack Developer with 2.5+ years of experience  │
-│  building enterprise SaaS & business platforms.                 │
+│  Full Stack Developer specializing in MERN & PERN stacks,      │
+│  with Laravel experience — 2+ years building scalable web apps,  │
+│  AI-powered tools, intelligent automation & agentic AI.        │
 │                                                                 │
 │  Built a Zoho-like Business Suite with Auth, CRM, HRMS,         │
 │  Chat, Meet, Workflow Builder, PMS, and POS modules.            │
 │                                                                 │
-│  I design scalable backend architectures, REST APIs,            │
-│  modern frontend interfaces, and cloud deployments.             │
+│  Strong focus on performance, clean architecture, REST/FastAPI,  │
+│  real-time (Socket.io / WebRTC), and VPS cloud deployments.     │
 │                                                                 │
-│  Currently transitioning into AI Engineering — learning         │
-│  RAG, Agentic AI, FastAPI, LangChain, and AI Agents.            │
+│  Currently upskilling in RAG, Agentic AI, LangChain & AI Agents.│
 │                                                                 │
+│  🎓 MCA · CGPA 8.7 · SNS College of Technology (2024)           │
 │  📍 Coimbatore, Tamil Nadu, India                               │
-│  💼 Full Stack Developer                                        │
+│  📞 +91 63811 11935                                             │
 │  🌐 https://sudhakar-livid.vercel.app                           │
-│  💼 https://www.linkedin.com/in/sudhakar-fd                     │
+│  🔗 https://www.linkedin.com/in/sudhakar-fd                     │
 │  ✉️  sudhakarmaruthu@gmail.com                                  │
 └─────────────────────────────────────────────────────────────────┘
 
@@ -95,11 +96,11 @@ Open Source • Cloud Computing • SaaS Products
 
 | Area | What I'm working on |
 |:----:|:--------------------|
-| 🤖 **AI Engineering** | RAG pipelines, Agentic AI, LLM applications |
-| ⚡ **Backend Systems** | Scalable APIs, system design, performance |
-| 🧠 **Agent Frameworks** | LangGraph, CrewAI, MCP, AI Agents |
-| ☁️ **Cloud & DevOps** | Docker, AWS, GitHub Actions, Nginx |
-| 🚀 **Product Building** | Business Suite (SaaS), open-source tools, automation |
+| ⚡ **Backend Systems** | REST APIs, FastAPI, PostgreSQL multi-tenant architecture |
+| 🔌 **Real-Time** | Socket.io chat, WebRTC meetings, notifications & file sharing |
+| 🤖 **AI & Automation** | Agentic AI, WhatsApp automation, AI chatbots, Meta integrations |
+| ☁️ **Cloud & DevOps** | VPS deployment, Docker, AWS, GitHub Actions, Nginx |
+| 🚀 **Product Building** | SaaS, ERP, HRMS, CRM, Business Suite & workflow automation |
 
 </div>
 
@@ -135,6 +136,7 @@ Open Source • Cloud Computing • SaaS Products
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -149,12 +151,17 @@ Open Source • Cloud Computing • SaaS Products
 
 <div align="center">
 
+![MERN Stack](https://img.shields.io/badge/MERN%20Stack-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PERN Stack](https://img.shields.io/badge/PERN%20Stack-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -174,6 +181,7 @@ Open Source • Cloud Computing • SaaS Products
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![VPS](https://img.shields.io/badge/VPS%20Deployment-232F3E?style=for-the-badge&logo=digitalocean&logoColor=0080FF)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -185,6 +193,8 @@ Open Source • Cloud Computing • SaaS Products
 <div align="center">
 
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![WhatsApp API](https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Meta Integration](https://img.shields.io/badge/Meta%20Integration-0081FB?style=for-the-badge&logo=meta&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -215,22 +225,41 @@ Open Source • Cloud Computing • SaaS Products
 
 <br />
 
-| Role | Focus | Duration |
-|:-----|:------|:--------:|
-| **Full Stack Developer** | Zoho-like Business Suite, enterprise SaaS, REST APIs, Laravel / Vue / React, cloud | **2.5+ Years** |
-| **Backend Engineer** | Scalable architectures, multi-module platforms, Docker, AWS, CI/CD | Ongoing |
-| **AI Enthusiast** | RAG, Agentic AI, FastAPI, LangChain, AI agents | Transitioning |
+| Company | Role | Period | Location |
+|:--------|:-----|:------:|:---------|
+| **SculpX Techlabs** | Software Associate | Aug 2025 – Present | Coimbatore |
+| **Whitecrappie Technologies** | Junior Full Stack Developer | Feb 2024 – Jul 2025 | Coimbatore |
+| **Mobility Intelligence Softwares** | Full Stack Developer & UI/UX Designer *(Intern)* | Dec 2023 – Feb 2024 | Coimbatore |
 
 <details>
-<summary><b>🧩 What I deliver</b></summary>
+<summary><b>🏢 SculpX Techlabs — Software Associate</b></summary>
 <br />
 
-- End-to-end feature delivery across frontend and backend
-- Production-ready REST APIs and multi-tenant service layers
-- Zoho-style Business Suite: Auth, CRM, HRMS, Chat, Meet, Workflow Builder, PMS, POS
-- Document management and enterprise workflow automation
-- Containerized deployments with Docker & Nginx
-- Automation platforms and AI-assisted tooling
+- Developed SaaS platforms, CRM, AI automation systems, chat apps, PMS & meeting scheduling
+- Built with **MERN, PERN & Python** stacks
+- Created REST APIs, FastAPI services, real-time features & workflow automation
+- Integrated **Meta APIs, AI chatbots** and agentic automation workflows
+- Deployed and maintained applications on **VPS** with optimized database performance
+
+</details>
+
+<details>
+<summary><b>🏢 Whitecrappie Technologies — Junior Full Stack Developer</b></summary>
+<br />
+
+- Built responsive, dynamic web applications using **Laravel, Vue.js, React.js & MySQL**
+- Focused on seamless UX, clean maintainable code & application scalability
+- Delivered production features across frontend and backend layers
+
+</details>
+
+<details>
+<summary><b>🏢 Mobility Intelligence Softwares — Full Stack & UI/UX Intern</b></summary>
+<br />
+
+- Built engaging digital experiences with **Bootstrap, JavaScript, Laravel & MySQL**
+- Designed intuitive interfaces in **Figma** and developed responsive web applications
+- Contributed to full-stack delivery as an intern across design and development
 
 </details>
 
@@ -240,65 +269,44 @@ Open Source • Cloud Computing • SaaS Products
 
 <br />
 
-### 🏢 Business Suite *(Zoho-like Enterprise Platform)*
+| Project | Stack | Highlights |
+|:--------|:------|:-----------|
+| **Multi-tenant SaaS Business Suite** | PERN · Socket.io · WebRTC · PostgreSQL | Org-based auth, RBAC, Accounts, PMS, real-time Chat, Meet, HRMS — deployed on VPS |
+| **Tour CRM + WhatsApp Agentic AI** | MERN/PERN · React Native · WhatsApp API | Leads, quotations, bookings, sales dashboard, AI agents & mobile app for field staff |
+| **Textile HRMS + Biometric** | React · Node.js · MongoDB | Attendance, leave, payroll, eSSL biometric integration, payslip generation |
+| **ERP — Purchase / EXIM / Service / Warehouse** | Laravel · MySQL · Vue.js | Purchase workflows, export/import docs, inventory, approvals & RBAC |
+| **Document Management System (DMS)** | Laravel · Storage | Secure upload, versioning & access control |
+| **SQLBot** | FastAPI · Streamlit | Natural-language SQL assistant powered by LLMs |
+| **WhatsApp Automation Platform** | Node.js · APIs | Messaging automation, workflows & Meta integrations |
 
-<div align="center">
-
-An integrated multi-module business platform — auth, collaboration, CRM, HR, projects, POS, and visual workflows in one suite.
-
-</div>
-
+<details>
+<summary><b>🏢 Business Suite — Module Breakdown</b></summary>
 <br />
 
 | Module | Capability |
 |:-------|:-----------|
 | **Account (Auth)** | Centralized authentication, roles, permissions & organization accounts |
 | **CRM** | Leads, deals, contacts, pipelines & customer engagement |
-| **HRMS** | Employees, attendance, payroll & people lifecycle |
-| **Chat** | Real-time team messaging & collaboration |
-| **Meet** | Online meetings & video collaboration |
+| **HRMS** | Employees, attendance, leave, payroll & people lifecycle |
+| **Chat** | Real-time team messaging & file sharing via WebSocket |
+| **Meet** | Online meetings & video collaboration via WebRTC |
 | **Workflow Builder** | Visual automation & business process workflows |
 | **PMS** | Project management — tasks, milestones & delivery tracking |
 | **POS** | Point of sale, inventory & sales operations |
 
-<details>
-<summary><b>🧩 Business Suite highlights</b></summary>
-<br />
-
-```text
-Account (Auth)     → SSO-ready auth, RBAC, multi-org accounts
-CRM                → Lead-to-close pipelines & customer 360
-HRMS               → People ops, attendance & HR automation
-Chat               → Real-time team communication
-Meet               → Meetings & remote collaboration
-Workflow Builder   → No-code / low-code process automation
-PMS                → Projects, tasks & delivery tracking
-POS                → Retail & sales operations at the counter
-```
-
 </details>
 
-<br />
-
-| Project | Stack / Type | Description |
-|:--------|:-------------|:------------|
-| **Business Suite** | Full Stack · SaaS | Zoho-like suite: Auth, CRM, HRMS, Chat, Meet, Workflow Builder, PMS, POS |
-| **Document Management System** | Laravel · Storage | Secure document upload, versioning, and access control |
-| **SQLBot** | FastAPI · Streamlit | Natural-language SQL assistant powered by LLMs |
-| **WhatsApp Automation Platform** | Node · APIs | Messaging automation, workflows, and integrations |
-| **Portfolio Website** | Modern Web | Personal portfolio — [sudhakar-livid.vercel.app](https://sudhakar-livid.vercel.app) |
-
 <details>
-<summary><b>📦 Other project highlights</b></summary>
+<summary><b>📦 Other Projects</b></summary>
 <br />
 
-```text
-Business Suite     → Multi-module Zoho-style enterprise SaaS
-DMS                → Controlled document lifecycle
-SQLBot             → Conversational database querying
-WhatsApp Platform  → Business messaging at scale
-Portfolio          → Product & engineering presence
-```
+| Project | Type |
+|:--------|:-----|
+| **Affiliate Marketing System** | Web App |
+| **Job Portal** | Web App |
+| **GoFood** | Figma Prototype |
+| **Landing Pages** | Collection |
+| **Portfolio Website** | [sudhakar-livid.vercel.app](https://sudhakar-livid.vercel.app) |
 
 </details>
 
@@ -359,15 +367,49 @@ Add a GitHub Action (`.github/workflows/snake.yml`) using [Platane/snk](https://
 
 | Badge | Achievement |
 |:-----:|:------------|
-| 🏢 | Built a **Zoho-like Business Suite** — Auth, CRM, HRMS, Chat, Meet, Workflow Builder, PMS, POS |
-| 📄 | Designed and shipped a **Document Management System** |
+| 🏢 | Built **Multi-tenant SaaS Business Suite** — Auth, CRM, HRMS, Chat, Meet, PMS, POS |
+| 🌍 | Shipped **Tour CRM** with WhatsApp agentic AI & React Native mobile app |
+| 👥 | Delivered **Textile HRMS** with eSSL biometric & payroll automation |
+| 📦 | Developed **ERP modules** — Purchase, EXIM, Service & Warehouse (Laravel) |
 | 🤖 | Built **SQLBot** — FastAPI + Streamlit conversational SQL tool |
-| 💬 | Developed a **WhatsApp Automation Platform** |
-| ☁️ | Deployed apps with **Docker, AWS, Nginx & CI/CD** |
-| 🧠 | Actively upskilling in **RAG, Agentic AI & LLM Engineering** |
+| ☁️ | Deployed production apps on **VPS** with optimized DB performance |
+| 🎓 | **MCA** graduate with **8.7 CGPA** from SNS College of Technology |
 
 </div>
 
+---
+
+## <div align="center">🎓 Education</div>
+
+<br />
+
+<div align="center">
+
+| Degree | Institution | CGPA | Period |
+|:-------|:------------|:----:|:------:|
+| **Master of Computer Applications (MCA)** | SNS College of Technology, Coimbatore | **8.7** | 2022 – 2024 |
+| **Bachelor of Computer Applications (BCA)** | Kalasalingam Academy of Research & Education, Krishnankovil | **8.01** | 2019 – 2022 |
+
+</div>
+
+---
+
+## <div align="center">📜 Certifications</div>
+
+<br />
+
+<div align="center">
+
+| Certification | Issuer | Status |
+|:--------------|:-------|:------:|
+| **CO-Creator** | IBM | ✅ Completed |
+| **Digital Marketing** | Google | ✅ Completed |
+| **Web Development** | Udemy | ✅ Completed |
+| **Python Masterclass** | Udemy | ✅ Completed |
+
+</div>
+
+---
 
 ## <div align="center">🗓️ Daily Workflow</div>
 
@@ -403,7 +445,8 @@ Add a GitHub Action (`.github/workflows/snake.yml`) using [Platane/snk](https://
 | **API Testing** | Postman |
 | **Design** | Figma |
 | **Version Control** | Git · GitHub · GitHub Actions |
-| **Cloud** | AWS · Vercel · Nginx |
+| **Cloud** | AWS · Vercel · VPS · Nginx |
+| **Domains** | SaaS · ERP · HRMS · CRM · AI Automation |
 
 </div>
 
@@ -446,6 +489,7 @@ Add a GitHub Action (`.github/workflows/snake.yml`) using [Platane/snk](https://
 | 💼 LinkedIn | [linkedin.com/in/sudhakar-fd](https://www.linkedin.com/in/sudhakar-fd) |
 | 🐙 GitHub | [github.com/sudhakar-k47](https://github.com/sudhakar-k47) |
 | ✉️ Email | [sudhakarmaruthu@gmail.com](mailto:sudhakarmaruthu@gmail.com) |
+| 📞 Phone | [+91 63811 11935](tel:+916381111935) |
 
 </div>
 
@@ -472,8 +516,8 @@ If my work, projects, or profile README help you — feel free to ⭐ star repos
 
 <div align="center">
 
-**Sudhakar K** · Full Stack Developer · Backend Engineer · AI Enthusiast  
-📍 Coimbatore, Tamil Nadu, India · 2.5+ Years Experience
+**Sudhakar K** · Full Stack Developer · MERN · PERN · AI Enthusiast  
+📍 Coimbatore, Tamil Nadu, India · 2+ Years Experience · MCA (CGPA 8.7)
 
 <em>Building scalable systems. Learning AI. Shipping products.</em>
 
