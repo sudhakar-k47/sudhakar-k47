@@ -22,7 +22,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sudhakar--livid.vercel.app-161B22?style=for-the-badge&logo=vercel&logoColor=white)](https://sudhakar-livid.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-hello%40example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@example.com)
+[![Email](https://img.shields.io/badge/Email-hello%40example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhakarmaruthu@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-sudhakar--k47-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudhakar-k47)
 
 </div>
