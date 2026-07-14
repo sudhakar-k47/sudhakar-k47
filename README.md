@@ -441,9 +441,9 @@ Add a GitHub Action (`.github/workflows/snake.yml`) using [Platane/snk](https://
 | Platform | Link |
 |:--------:|:-----|
 | 🌐 Portfolio | [sudhakar-livid.vercel.app](https://sudhakar-livid.vercel.app) |
-| 💼 LinkedIn | [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN) |
+| 💼 LinkedIn | [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/sudhakar-fd) |
 | 🐙 GitHub | [github.com/sudhakar-k47](https://github.com/sudhakar-k47) |
-| ✉️ Email | [hello@example.com](mailto:hello@example.com) |
+| ✉️ Email | [sudhakarmaruthu@gmail.com](mailto:sudhakarmaruthu@gmail.com) |
 
 </div>
 
